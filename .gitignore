@@ -1,0 +1,5 @@
+# Exclude build result
+docs/_site
+
+# Exlucude generated files
+*.lock
