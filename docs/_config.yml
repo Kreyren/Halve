@@ -1,8 +1,8 @@
 # Site
 title: Kreyren
 description: fixme_description
-url: "https://kreyren.github.io/Halve/"
-logo: halve.png                                       # Site logo
+url: https://taylantatli.github.io/Halve
+logo: halve.png
 locale: en_US
 
 # Left Block Images
@@ -38,6 +38,7 @@ github: kreyren
 #linkedin:          username
 #xing:              username
 #instagram:          username
+sourcerer: kreyren # https://sourcerer.io/kreyren
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
