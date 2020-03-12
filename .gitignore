@@ -4,3 +4,4 @@ docs/_site
 # Exlucude generated files
 *.lock
 docs/.sass-cache
+docs/.jekyll-metadata

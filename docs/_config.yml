@@ -1,7 +1,7 @@
 # Site
 title: Kreyren
 description: fixme_description
-url: https://kreyren.rixotstudio.cz
+url: "https://kreyren.github.io/Halve/"
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -19,7 +19,7 @@ kramdown:
   auto_ids:         true
   footnote_nr:      1
   entity_output:    as_char
-  toc_levels:       1..6
+  toc_levels:       1..6 # False trigger linting on gitpod?
   enable_coderay:   false
 sass:
   sass_dir:         assets/_sass
