@@ -1,3 +1,6 @@
 ports:
   - port: 4000
     onOpen: open-preview
+
+tasks:
+  - init: cd docs/ && bundle install && JEKYLL_ENV="production" bundle exec jekyll build
